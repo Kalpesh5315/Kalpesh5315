@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Kalpesh5315
+- 👋 Hi, I’m Kalpesh Palve
 - 👀 I’m interested in Software Developement
-- 🌱 I’m currently pursuing B.tech in Computer Science
 - 💞️ I’m here for doing some extra ordinary things.
 - 📫 contact me on Twitter @KalpeshPalve on Instagram @kalp_palve358
 
